@@ -10,6 +10,9 @@ import com.opensymphony.xwork2.ActionSupport;
  * @author bruce phillips
  *
  */
+ /**
+  * This is testing code
+  * /
 public class Register extends ActionSupport {
 	
 	private static final long serialVersionUID = 1L;
