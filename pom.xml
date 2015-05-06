@@ -7,7 +7,6 @@
 	<artifactId>struts2sample</artifactId>
 	<version>pom</version>
 	<name>Unit Testing</name>
-<!-- testing for jenkins for Github------>
 	<build>
 		<finalName>struts2sample</finalName>
 		<plugins>
