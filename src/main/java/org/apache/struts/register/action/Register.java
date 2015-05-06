@@ -11,7 +11,7 @@ import com.opensymphony.xwork2.ActionSupport;
  *
  */
  /**
-  * This is testing code
+  * This is testing code for Jenkins
   * /
 public class Register extends ActionSupport {
 	
